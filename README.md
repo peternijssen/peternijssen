@@ -11,7 +11,11 @@ I'm Peter, CTO and Product Manager at [CMNTY Corporation](https://www.cmnty.com)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [High Availability with HAProxy and Keepalived in AWS](https://www.peternijssen.nl/high-availability-haproxy-keepalived-aws/)
+- [Connect two AWS regions with StrongSwan](https://www.peternijssen.nl/connect-multiple-aws-regions-strongswan/)
+- [Create your own VPC in AWS](https://www.peternijssen.nl/create-aws-vpc/)
+- [AWS Certification and Exam](https://www.peternijssen.nl/aws-certification-exam/)
+- [PHP Benelux Conference 2016](https://www.peternijssen.nl/php-benelux-conference-2016/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

@@ -4,7 +4,7 @@
 
 Hi there 👋
 
-I'm Peter, Former CTO and Product Manager at [CMNTY Corporation](https://www.cmnty.com) and now working as Managing Consultant at [inQdo Cloud][https://inqdo.com]. All work in my Github repositories is created from a personal interest. Currently maintaining the Spider (Component) of Home Assistant.
+I'm Peter, Former CTO and Product Manager at [CMNTY Corporation](https://www.cmnty.com) and now working as Managing Consultant at [inQdo Cloud](https://inqdo.com). All work in my Github repositories is created from a personal interest. Currently maintaining the Spider (Component) of Home Assistant.
 
 ## 📝 Latest Blog Posts
 

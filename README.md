@@ -4,25 +4,7 @@
 
 Hi there 👋
 
-I'm Peter, Former CTO and Product Manager at [CMNTY Corporation](https://www.cmnty.com) and now working as Managing Consultant at [inQdo Cloud](https://inqdo.com). All work in my Github repositories is created from a personal interest. Currently maintaining the Spider (Component) of Home Assistant.
-
-## 📌 Pinned Repositories
-
-<br />
-
-<a href="https://github.com/peternijssen/home-assistant-jumbo">
-  <img align="center" style="margin:1rem; min-height:200px" src="https://github-readme-stats.vercel.app/api/pin/?username=peternijssen&repo=home-assistant-jumbo&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/peternijssen/python-jumbo-api">
-  <img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=peternijssen&repo=python-jumbo-api&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br />
-
-<a href="https://github.com/peternijssen/spiderpy">
-  <img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=peternijssen&repo=spiderpy&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+I'm Peter, Former CTO and Product Manager at [CMNTY Corporation](https://www.cmnty.com) and now working as Managing Consultant at [inQdo Cloud](https://inqdo.com). All work in my Github repositories
 
 <br />
 <br />

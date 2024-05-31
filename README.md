@@ -4,7 +4,7 @@
 
 Hi there 👋
 
-I'm Peter, Former CTO and Product Manager at [CMNTY Corporation](https://www.cmnty.com) and now working as Managing Consultant at [inQdo Cloud](https://inqdo.com). All work in my Github repositories
+I'm Peter, Former CTO and Product Manager at [CMNTY Corporation](https://www.cmnty.com) and now working as Managing Consultant at [inQdo](https://inqdo.com). All work in my Github repositories is on personal level.
 
 <br />
 <br />

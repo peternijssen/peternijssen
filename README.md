@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/peternijssen/peternijssen)](https://www.peternijssen.nl)
+[![Visits Badge](https://badges.pufler.dev/visits/peternijssen/peternijssen)](https://www.yetanothersmarthome.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ptnijssen)
 
 ## Hi there, I'm Peter 👋

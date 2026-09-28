@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Peter Nijssen — Home Assistant integrations, smart home tinkering, open source" width="100%">
+  <img src="assets/banner.svg" alt="peter-mdf — Home Assistant integrations, smart home tinkering, open source" width="100%">
 </p>
 
 ### Hi, I'm Peter 👋
@@ -17,7 +17,7 @@ I build things for my own house and share them when they might be useful to some
 
 ### 🛠️ Other bits
 
-🏠 [ha-postcodeloterij](https://github.com/peternijssen/ha-postcodeloterij) — Postcode Loterij results in Home Assistant
+🏠 [ha-postcodeloterij](https://github.com/peter-mdf/ha-postcodeloterij) — Postcode Loterij results in Home Assistant
 
 ### 🧰 Usually working with
 
@@ -26,8 +26,8 @@ I build things for my own house and share them when they might be useful to some
 ### 📈 Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=peternijssen&hide_border=true&background=00000000&disable_animations=true&ring=38BDF8&fire=34D399&currStreakLabel=38BDF8&theme=dark">
-  <img src="https://streak-stats.demolab.com?user=peternijssen&hide_border=true&background=00000000&disable_animations=true&ring=38BDF8&fire=34D399&currStreakLabel=38BDF8&theme=default" alt="GitHub streak" height="165">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=peter-mdf&hide_border=true&background=00000000&disable_animations=true&ring=38BDF8&fire=34D399&currStreakLabel=38BDF8&theme=dark">
+  <img src="https://streak-stats.demolab.com?user=peter-mdf&hide_border=true&background=00000000&disable_animations=true&ring=38BDF8&fire=34D399&currStreakLabel=38BDF8&theme=default" alt="GitHub streak" height="165">
 </picture>
 
 <sub>Everything here is a personal, spare-time project.</sub>

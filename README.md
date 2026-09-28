@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="peter-mdf — Home Assistant integrations, smart home tinkering, open source" width="100%">
+  <img src="assets/banner.svg" alt="Peter — Home Assistant integrations, smart home tinkering, open source" width="100%">
 </p>
 
 ### Hi, I'm Peter 👋
